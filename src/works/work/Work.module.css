@@ -1,0 +1,30 @@
+.work {
+    width: 350px;
+    background: greenyellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+}
+.imgProject {
+    width: 100%;
+    height: 200px;
+    background: #c3fa76;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/javascript-circle.jpg");
+    background-size: cover ;
+    background-position: center;
+}
+.button {
+    text-decoration: none;
+    user-select: none;
+}
+.text {
+
+}
+.description {
+
+}

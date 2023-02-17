@@ -1,0 +1,12 @@
+.hireButtonBlock {
+    height: 20vh;
+    background: #deda87;
+    flex-wrap: wrap;
+}
+.hireButtonContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.title {
+    background: #a2c965;
+}

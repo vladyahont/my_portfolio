@@ -1,0 +1,20 @@
+.worksBlock {
+    min-height: 80vh;
+    background: #e2fa76;
+    flex-wrap: wrap;
+}
+.worksContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.title {
+    background: #a2c965;
+}
+.works {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
